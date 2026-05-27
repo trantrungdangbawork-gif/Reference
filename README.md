@@ -2,5 +2,6 @@
 Additional materials, transcripts, and certificates are available in Reference
 
 
-NOTE: The official academic transcript has not yet been issued by the University. The attached file is currently an online academic record retrieved from the system of VNUHCM – University of Science (HCMUS). I will proactively update the official transcript on Reference as soon as it is officially provided by the University.
+NOTE: *GPA stated in the CV is calculated up to Semester 1 of Academic Year 2025–2026. The attached academic transcript was issued later and includes results up to Semester 2 of Academic Year 2025–2026. However, the GPA has not yet been updated by the University to include the courses Digital Communication and Data Communication.*
+
 
